@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+}
+
+.btn-Crear{
+    background-color: green;
+    color: white;
+}
+.btn-Eliminar{
+    background-color: red;
+    color: white;
+}
+.btn-Editar{
+    background-color: blue;
+    color: white;
+}
